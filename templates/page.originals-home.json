@@ -1,0 +1,279 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1635729369a17fe13e": {
+      "type": "slideshow",
+      "blocks": {
+        "1635729369a17fe13e-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "THE TIME IS NEARLY HERE",
+            "title_size": 40,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/dhaya-eddine-bentaleb-iYcpcQmjS2A-unsplash_copy_1728x_2074b7ba-a665-4121-96ee-14f98c046cc5.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1635729369a17fe13e-0"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "300px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16357320893eed1678": {
+      "type": "rich-text",
+      "blocks": {
+        "16357320893eed1678-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Range will drop in December"
+          }
+        },
+        "16357320893eed1678-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Our goal is to design and create quality pieces that you enjoy wearing and feel great doing so.<br\/><br\/>We create original pieces for you to be your original self from the weekend at the beach to the day of study or a cheeky round of golf.<br\/><br\/>We design for you and only sell directly to you. We want to hear your stories and create products that will assist you in being you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16357320893eed1678-0",
+        "16357320893eed1678-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1637213074badd80bf": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New Releases",
+        "home_featured_products": "originals-new-releases",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "163573209316ba0d97": {
+      "type": "slideshow",
+      "blocks": {
+        "163573209316ba0d97-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Where to next?",
+            "title_size": 40,
+            "subheading": "Introducing the Safari short. Following you in every direction.",
+            "link": "shopify:\/\/collections\/originals-mens-shorts",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-left",
+            "image": "shopify:\/\/shop_images\/samantha-borges-H0KhQG_wIL8-unsplash.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "163573209316ba0d97-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16372150075215bb47": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "home_featured_products": "originals-mens-shorts",
+        "per_row": 2,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": false,
+        "divider": false
+      }
+    },
+    "1635732022e3ae1842": {
+      "type": "slideshow",
+      "blocks": {
+        "1635732022e3ae1842-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "A PIECE FOR EVERY MOVE",
+            "title_size": 40,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/mens-originals-tops-t-shirts",
+            "link_text": "SHOP TOPS & T-SHIRTS",
+            "link_2": "shopify:\/\/collections\/originals-mens-jackets-coats",
+            "link_text_2": "SHOP JACKETS",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-right",
+            "image": "shopify:\/\/shop_images\/danny-howe-bn-D2bCvpik-unsplash_1.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1635732022e3ae1842-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1637213190f61d1c96": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/jcob-nasyr-uGPBqF1Yls0-unsplash.jpg",
+        "image_width": 500,
+        "subtitle": "Your order makes a difference",
+        "title": "5%",
+        "text": "<p>From April 2021, we donate 5% of each order to causes we believe in on land and at sea.<\/p><p>Our mission is to not only move to zero carbon but to go beyond and make a positive impact on our environment.<\/p>",
+        "button_label": "Learn more",
+        "button_link": "shopify:\/\/pages\/mission",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "1635734167ffd3fd4b": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "163573382104769ec4": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "16372152742a954724": {
+      "type": "slideshow",
+      "blocks": {
+        "1637215274f403bdd5-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "RELAX IN COMFORT",
+            "title_size": 40,
+            "subheading": "",
+            "link": "shopify:\/\/collections\/mens-hoodies-sweaters",
+            "link_text": "SHOP HOODIES & CREWS",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/aaron-huber-oMOx_wV6mLQ-unsplash.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1637215274f403bdd5-0"
+      ],
+      "settings": {
+        "section_height": "450px",
+        "mobile_height": "auto",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "163721336938a882f6": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Afterpay_Badge_BlackonWhite_540x_1.png",
+        "image_width": 450,
+        "subtitle": "SHOP NOW | PAY LATER",
+        "title": "",
+        "text": "<p>Pay your order off over 4 equal interest-free Instalments due fortnightly. <br\/>Available in-store and online (t&c's apply).<\/p>",
+        "button_label": "learn more",
+        "button_link": "https:\/\/www.afterpay.com\/en-NZ\/how-it-works",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1635734439309a8949": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "16372137820a96a8f6": {
+      "type": "map",
+      "settings": {
+        "map_title": "Visit Our Store",
+        "address": "<p>84C Elizabeth Knox Place<br\/>St Johns, Auckland 1072<br\/>New Zealand<\/p><p><\/p><p><\/p><p>Regular Opening Hours:<br\/>Mon, Tues, Wed, Fri: 12pm - 5pm<br\/>Thursday: 12pm - 6:30pm<br\/>Saturday: Closed<br\/>Sunday: 10am - 3pm<\/p>",
+        "map_address": "Fantail, 84C Elizabeth Knox Place, St Johns, Auckland 1072",
+        "api_key": "AIzaSyAircNDX3QUTnYAEcBj1pYRnyYfzmvNQvI",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1635729369a17fe13e",
+    "16357320893eed1678",
+    "1637213074badd80bf",
+    "163573209316ba0d97",
+    "16372150075215bb47",
+    "1635732022e3ae1842",
+    "1637213190f61d1c96",
+    "1635734167ffd3fd4b",
+    "163573382104769ec4",
+    "16372152742a954724",
+    "163721336938a882f6",
+    "1635734439309a8949",
+    "16372137820a96a8f6"
+  ]
+}

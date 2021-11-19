@@ -1,0 +1,370 @@
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slideshow-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "CRICKET BATS",
+            "title": "Made to order",
+            "title_size": 40,
+            "subheading": "every aspect is designed to mould to the way you play.",
+            "link": "shopify:\/\/collections\/all",
+            "link_text": "Shop SENIOR",
+            "link_2": "shopify:\/\/collections\/all",
+            "link_text_2": "Shop JUNIOR",
+            "color_accent": "#ffffff",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/mto_top.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/mto_top_mobile.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "top center"
+          }
+        }
+      },
+      "block_order": [
+        "slideshow-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 7
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "New Releases",
+        "home_featured_products": "new-releases",
+        "per_row": 4,
+        "rows": 1,
+        "mobile_scrollable": true,
+        "view_all": true,
+        "divider": false
+      }
+    },
+    "promo-grid": {
+      "type": "promo-grid",
+      "blocks": {
+        "promo-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "NEW",
+            "heading": "BATTING PADS",
+            "textarea": "",
+            "cta_text1": "",
+            "cta_link1": "",
+            "cta_text2": "Shop",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/G1_BG_-_BACK_copy_2_ad615c7f-e712-4439-b328-6dbaf1171963.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 720,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "center",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": true
+          }
+        },
+        "promo-1": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "NEW",
+            "heading": "BATTING GLOVES",
+            "textarea": "",
+            "cta_text1": "Shop",
+            "cta_link1": "shopify:\/\/collections\/cricket-batting-gloves",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/G1_BG_-_BACK_copy_2.jpg",
+            "video_url": "",
+            "width": "50",
+            "height": 600,
+            "text_size": 100,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "80% 50%",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": true
+          }
+        }
+      },
+      "block_order": [
+        "promo-0",
+        "promo-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true
+      }
+    },
+    "rich-text": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text"
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "heading"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "promo-grid2": {
+      "type": "promo-grid",
+      "blocks": {
+        "promo2-0": {
+          "type": "advanced",
+          "settings": {
+            "subheading": "",
+            "heading": "5%",
+            "textarea": "We donate 5% of every order to land and sea environmental causes that we believe in.",
+            "cta_text1": "LEARN ABOUT OUR MISSION",
+            "cta_link1": "shopify:\/\/pages\/mission",
+            "cta_text2": "",
+            "cta_link2": "",
+            "image": "shopify:\/\/shop_images\/samuel-ferrara-GAAkK_zqRzk-unsplash_1512x_767af6da-2414-4a9c-81f2-0d191dac4ebd.jpg",
+            "video_url": "",
+            "width": "100",
+            "height": 720,
+            "text_size": 120,
+            "text_align": "vertical-center horizontal-center",
+            "focal_point": "80% 50%",
+            "color_accent": "rgba(0,0,0,0)",
+            "boxed": false,
+            "framed": false
+          }
+        }
+      },
+      "block_order": [
+        "promo2-0"
+      ],
+      "settings": {
+        "full_width": false,
+        "gutter_size": 20,
+        "space_above": false,
+        "space_below": true
+      }
+    },
+    "16358850054d94f36a": {
+      "type": "slideshow",
+      "blocks": {
+        "16358850054d94f36a-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "FANTAIL",
+            "title": "CORE",
+            "title_size": 40,
+            "subheading": "A modern approach for the classic stoke maker.",
+            "link": "",
+            "link_text": "SHOP SENIOR",
+            "link_2": "",
+            "link_text_2": "SHOP JUNIOR",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/Core_fee388df-3372-42a3-8d1b-2bb80e0ffa5f.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "16358850054d94f36a-1": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "FANTAIL",
+            "title": "SWELL",
+            "title_size": 40,
+            "subheading": "Have the confidence to play 360°.",
+            "link": "",
+            "link_text": "SHOP SENIOR",
+            "link_2": "",
+            "link_text_2": "SHOP JUNIOR",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/swell_square.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "1cacf7e6-42ca-4345-8f91-a986938c4bc7": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "FANTAIL",
+            "title": "TONE",
+            "title_size": 40,
+            "subheading": "Be the game changer, set the tone.",
+            "link": "",
+            "link_text": "SHOP SENIOR",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/tone_square.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        },
+        "3619008a-4426-4d56-b7f3-57eaeedbe86b": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "FANTAIL",
+            "title": "CUSTOM",
+            "title_size": 40,
+            "subheading": "Start with a blank canvas and let your imagination fly.",
+            "link": "",
+            "link_text": "SHOP SENIOR",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/custom_2ecd324d-6882-4744-a753-4d1bd8059496.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16358850054d94f36a-0",
+        "16358850054d94f36a-1",
+        "1cacf7e6-42ca-4345-8f91-a986938c4bc7",
+        "3619008a-4426-4d56-b7f3-57eaeedbe86b"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1635888809e789df61": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Afterpay_Badge_BlackonWhite_540x_1.png",
+        "image_width": 350,
+        "subtitle": "SHOP NOW - PAY LATER",
+        "title": "",
+        "text": "<p>Pay your order off over 4 equal interest-free Instalments due fortnightly. <br\/>Available in-store and online (t&c's apply).<\/p>",
+        "button_label": "LEARN MORE",
+        "button_link": "https:\/\/www.afterpay.com\/en-NZ\/how-it-works",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "disabled": true,
+      "blocks": {
+        "featured-collections-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        },
+        "featured-collections-3": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "title": "",
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "featured-collections-0",
+        "featured-collections-1",
+        "featured-collections-2",
+        "featured-collections-3"
+      ],
+      "settings": {
+        "title": "Shop by category",
+        "divider": false,
+        "per_row": 4,
+        "enable_gutter": true
+      }
+    },
+    "background-image-text": {
+      "type": "background-image-text",
+      "disabled": true,
+      "settings": {
+        "subtitle": "Impressive",
+        "title": "Large image with text box",
+        "text": "<p>Pair large text with a full-width image to draw attention to an important detail of your brand or product line.<\/p>",
+        "button_label": "",
+        "button_link": "shopify:\/\/collections\/all",
+        "focal_point": "80% 0",
+        "layout": "left",
+        "height": 750,
+        "framed": false,
+        "parallax": true
+      }
+    },
+    "map": {
+      "type": "map",
+      "settings": {
+        "map_title": "Visit Our Store",
+        "address": "<p>84C Elizabeth Knox Place<br\/>St Johns, Auckland 1072<br\/>New Zealand<\/p><p><\/p><p><\/p><p>Regular Opening Hours:<br\/>Mon, Tues, Wed, Fri: 12pm - 5pm<br\/>Thursday: 12pm - 6:30pm<br\/>Saturday: Closed<br\/>Sunday: 10am - 3pm<\/p>",
+        "map_address": "Fantail, 84C Elizabeth Knox Place, St Johns, Auckland 1072",
+        "api_key": "AIzaSyAircNDX3QUTnYAEcBj1pYRnyYfzmvNQvI",
+        "show_button": true,
+        "background_image_position": "center center"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured-collection",
+    "promo-grid",
+    "rich-text",
+    "promo-grid2",
+    "16358850054d94f36a",
+    "1635888809e789df61",
+    "featured-collections",
+    "background-image-text",
+    "map"
+  ]
+}

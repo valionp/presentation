@@ -1,0 +1,236 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1635729369a17fe13e": {
+      "type": "slideshow",
+      "blocks": {
+        "1635729369a17fe13e-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Take Flight",
+            "title_size": 40,
+            "subheading": "Our mission is to not only move to zero carbon but to go beyond and make a positive impact on our environment.",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/karl-anderson-aJIqL_ab1ho-unsplash_1728x_abbbe44e-ec03-4264-b81a-69f836f0e53e.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1635729369a17fe13e-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "300px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16357320893eed1678": {
+      "type": "rich-text",
+      "blocks": {
+        "16357320893eed1678-0": {
+          "type": "heading",
+          "settings": {
+            "title": "what does this mean?"
+          }
+        }
+      },
+      "block_order": [
+        "16357320893eed1678-0"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "163573209316ba0d97": {
+      "type": "slideshow",
+      "blocks": {
+        "163573209316ba0d97-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "5%",
+            "title_size": 100,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/samuel-ferrara-GAAkK_zqRzk-unsplash_1512x_767af6da-2414-4a9c-81f2-0d191dac4ebd.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "163573209316ba0d97-0"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "163721660125a5cd35": {
+      "type": "rich-text",
+      "blocks": {
+        "1637216601e6b5dc62-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>From April 2021, we will donate 5% of each order to causes we believe in on land and at sea.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1637216601e6b5dc62-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1637216609e6754d79": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/laureen-missaire-KrZXbI9Kspk-unsplash.jpg",
+        "image_width": 500,
+        "subtitle": "We donate to",
+        "title": "Native Forest Restoration Trust",
+        "text": "<p>The Native Forest Restoration Trust is dedicated to protecting New Zealand’s native forests and wetlands. Not just for today, but for generations to come.<\/p><p>The Trust was formed in 1980 when a group of people got together to protest the felling of giant totara in Pureora Forest. Their ethos remains the same as it was back then – if we all come together, we can achieve extraordinary things.<\/p><p>They have achieved extraordinary things. Today, the Trust manages over 7,000 hectares of reserves, protected forever for all New Zealanders to enjoy. This has only been possible thanks to our incredible supporters.<\/p>",
+        "button_label": "Donate Directly",
+        "button_link": "https:\/\/www.nfrt.org.nz\/make-a-donation\/",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16372166451e51ea1c": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/jonas-von-werne-wN6EybHR2x8-unsplash.jpg",
+        "image_width": 500,
+        "subtitle": "We donate to",
+        "title": "Sea shepherd nz",
+        "text": "<p>Their mission is to protect defenseless marine wildlife and end the destruction of habitat in the world’s oceans. Since 1977, Sea Shepherd has used innovative direct action tactics to defend, conserve and protect the delicately-balanced biodiversity of our seas and enforce international conservation laws.<\/p>",
+        "button_label": "donate directly",
+        "button_link": "https:\/\/www.seashepherd.org.nz\/get-involved\/donate\/",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "left",
+        "divider": false
+      }
+    },
+    "1637216915723f50ed": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Product",
+        "text": "<p>One of our key focus areas is choosing our materials because they account for more than 70% of any product footprint. By using recycled plastics, yarns and textiles, we will significantly reduce our emissions.<\/p><p>We also continue developing how our products are made to ensure we are minimising waste and recycling materials where possible.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/trisha-downing-pyud8ZaVq4I-unsplash.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 750,
+        "framed": false,
+        "parallax": false
+      }
+    },
+    "163721703093b6d7f3": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Packaging",
+        "text": "<p>From 2020 all packaging for Fantail Products is made with zero plastic and ensure that it breaks down or can be reused with no negative impact on the environment. This means all products have packaging that is biodegradable, compostable, recyclable or no packaging.<\/p><p>Please note some products will have plastic packaging if they were made before 2020.<\/p><p>We have also taken the initiative to list each packaging type in the product description. This enables our customers to make a conscious choice about the impact of each of our products.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/markus-spiske-fDvokTkwEZ8-unsplash.jpg",
+        "focal_point": "center",
+        "layout": "right",
+        "height": 750,
+        "framed": false,
+        "parallax": false
+      }
+    },
+    "1637217389710f95f1": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "Shipping",
+        "text": "<p>Freight makes up 10-33% of the carbon footprint of an e-commerce sale. Our carbon footprint will reduce and eventually become zero by supporting our causes above.<\/p><p><\/p><p>We will also continue to work closely with our shipping providers worldwide to develop and implement ways to reduce either the product's journey or find more environmentally friendly ways to get our products from A to B.<\/p><p><\/p><p>Along with donating 5% of every order to our chosen causes, we also offer every customer the chance to make a carbon offset donation when placing their order. After fees, 50% is allocated to local flagship forest regeneration or conservation projects, and 50% goes to high-impact international clean energy projects.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/claudio-schwarz-purzlbaum-FLLKq3yDnfI-unsplash.jpg",
+        "focal_point": "bottom",
+        "layout": "left",
+        "height": 750,
+        "framed": false,
+        "parallax": false
+      }
+    },
+    "16372175286869cb91": {
+      "type": "rich-text",
+      "blocks": {
+        "16372175289c0ca4fb-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Just the beginning"
+          }
+        },
+        "16372175289c0ca4fb-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The steps above are just scratching the surface of what we'd like to achieve as a brand. Of course, we can't do any of this without the support of our incredible customers. <\/p><p><\/p><p>We'd love you to join us on this journey to make a positive difference in our environment. Please join our mailing list to follow our progress and stay in the loop for upcoming events.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16372175289c0ca4fb-0",
+        "16372175289c0ca4fb-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1635729369a17fe13e",
+    "16357320893eed1678",
+    "163573209316ba0d97",
+    "163721660125a5cd35",
+    "1637216609e6754d79",
+    "16372166451e51ea1c",
+    "1637216915723f50ed",
+    "163721703093b6d7f3",
+    "1637217389710f95f1",
+    "16372175286869cb91"
+  ]
+}

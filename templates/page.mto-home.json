@@ -1,0 +1,243 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "1635729369a17fe13e": {
+      "type": "slideshow",
+      "blocks": {
+        "1635729369a17fe13e-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "",
+            "title": "Made to order",
+            "title_size": 50,
+            "subheading": "every aspect is designed to mould to the way you play.",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-center horizontal-center",
+            "image": "shopify:\/\/shop_images\/mto_top.jpg",
+            "image_mobile": "shopify:\/\/shop_images\/mto_top_mobile.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1635729369a17fe13e-0"
+      ],
+      "settings": {
+        "section_height": "natural",
+        "mobile_height": "300px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16357320893eed1678": {
+      "type": "rich-text",
+      "blocks": {
+        "16357320893eed1678-0": {
+          "type": "heading",
+          "settings": {
+            "title": "choosing your shape"
+          }
+        },
+        "16357320893eed1678-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>The shape determines the pick-up and where the performance of your bat sits. This is the first step to developing the perfect bat to suit the way you play.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16357320893eed1678-0",
+        "16357320893eed1678-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "163573209316ba0d97": {
+      "type": "slideshow",
+      "blocks": {
+        "163573209316ba0d97-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "fantail",
+            "title": "swell",
+            "title_size": 40,
+            "subheading": "Have the confidence to play 360°.",
+            "link": "",
+            "link_text": "shop senior",
+            "link_2": "",
+            "link_text_2": "shop junior",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/swell_square.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "163573209316ba0d97-0"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1635734167ffd3fd4b": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "1635732022e3ae1842": {
+      "type": "slideshow",
+      "blocks": {
+        "1635732022e3ae1842-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Fantail",
+            "title": "Core",
+            "title_size": 40,
+            "subheading": "A modern approach for the classic stoke maker.",
+            "link": "",
+            "link_text": "shop senior",
+            "link_2": "",
+            "link_text_2": "shop junior",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/Core_fee388df-3372-42a3-8d1b-2bb80e0ffa5f.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1635732022e3ae1842-0"
+      ],
+      "settings": {
+        "section_height": "650px",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "163573382104769ec4": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "1635733151b8c76f97": {
+      "type": "slideshow",
+      "blocks": {
+        "1635733151b8c76f97-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "FANTAIL",
+            "title": "TONE",
+            "title_size": 40,
+            "subheading": "Be the game changer, set the tone.",
+            "link": "",
+            "link_text": "shop senior",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/tone_square.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1635733151b8c76f97-0"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1635734439309a8949": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "1635734170224d9183": {
+      "type": "slideshow",
+      "blocks": {
+        "1635734170224d9183-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "fantail",
+            "title": "custom",
+            "title_size": 40,
+            "subheading": "Start with a blank canvas and let your imagination fly.",
+            "link": "",
+            "link_text": "shop",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/custom_69535fe5-7a56-41da-8005-387d6713e77c.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "1635734170224d9183-0"
+      ],
+      "settings": {
+        "section_height": "750px",
+        "mobile_height": "400px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1635729369a17fe13e",
+    "16357320893eed1678",
+    "163573209316ba0d97",
+    "1635734167ffd3fd4b",
+    "1635732022e3ae1842",
+    "163573382104769ec4",
+    "1635733151b8c76f97",
+    "1635734439309a8949",
+    "1635734170224d9183"
+  ]
+}

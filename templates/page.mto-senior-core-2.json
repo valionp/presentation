@@ -1,0 +1,634 @@
+{
+  "sections": {
+    "163573209316ba0d97": {
+      "type": "slideshow",
+      "blocks": {
+        "163573209316ba0d97-0": {
+          "type": "image",
+          "settings": {
+            "top_subheading": "Made to order",
+            "title": "Core",
+            "title_size": 63,
+            "subheading": "",
+            "link": "",
+            "link_text": "",
+            "link_2": "",
+            "link_text_2": "",
+            "color_accent": "rgba(0,0,0,0)",
+            "text_align": "vertical-bottom horizontal-center",
+            "image": "shopify:\/\/shop_images\/Core_fee388df-3372-42a3-8d1b-2bb80e0ffa5f.jpg",
+            "overlay_opacity": 0,
+            "focal_point": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "163573209316ba0d97-0"
+      ],
+      "settings": {
+        "section_height": "550px",
+        "mobile_height": "250px",
+        "parallax": false,
+        "style": "bars",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "1635736330acec5ecc": {
+      "type": "rich-text",
+      "blocks": {
+        "1635736330acec5ecc-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "title": "Core"
+          }
+        },
+        "1635736330acec5ecc-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>A modern approach for the classic stoke maker.<\/p>"
+          }
+        },
+        "9d4f2c25-6d40-4b0b-ae70-6337e8ba0ebc": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>Supplement your game and achieve greater power executing your drives.<br\/><br\/>The Core's shape is all about finding the balance between the pickup and performance. We achieve this by maintaining a high rolling spine leading into a power-packed mid to low sweet spot. From its peak, the spine runs flat to the toe, which provides a gradual drop off in performance, allowing for more forgiving stroke-play and improving the pickup.<br\/><br\/>This shape will improve your performance off the front foot and allow you to play cross-batted shots with ease and confidence.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1635736330acec5ecc-0",
+        "1635736330acec5ecc-1",
+        "9d4f2c25-6d40-4b0b-ae70-6337e8ba0ebc"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1635734167ffd3fd4b": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "163573382104769ec4": {
+      "type": "rich-text",
+      "settings": {
+        "align_text": "center",
+        "narrow_column": false,
+        "divider": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "163588222566666e99": {
+      "type": "text-columns",
+      "blocks": {
+        "163588222566666e99-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "CONSTRUCTION",
+            "text": "<p>This bat conforms to MCC Law 5 bat regulations, which means that the bat needs will fit through an approved bat gauge with maximum dimensions of 108mm in blade width, 67mm in spine height with 40mm edges<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "163588222566666e99-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "Spine & Edge",
+            "text": "<p>You can expect the edge and spine to peak between 185mm & 195mm from the toe of the bat. The edge and spine height will differ based on the weight & size you select, plus the density of the willow used. However, the edge will be between 35mm & 40mm and the spine between 60mm & 67mm. <\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "163588222566666e99-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "Bow & Face",
+            "text": "<p>Our 3-stage pressing technique generates a balanced bowed blade to deliver increased power and control. Our modern flat face allows for enhanced shot placement. The edges are boned (hardened) to strengthen and decrease the chance of cracking.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163588222566666e99-0",
+        "163588222566666e99-1",
+        "163588222566666e99-2"
+      ],
+      "settings": {
+        "title": "",
+        "align_text": "center",
+        "divider": false
+      }
+    },
+    "1635882232c510ec03": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/semi-concaved.png",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Profile",
+        "text": "<p>The profile refers to the amount of scallop between the edge and spine. The Core has a semi-concaved to full profile, equivalent to scalloping between 0mm and 3mm. This differs based on the weight, size you select, and the density of the willow used.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": false
+      }
+    },
+    "16357364582fc14421": {
+      "type": "background-image-text",
+      "settings": {
+        "subtitle": "",
+        "title": "HOW OUR MADE TO ORDER BATS ARE MADE",
+        "text": "<p>Each cricket bat willow tree is grown in the UK for around 20 years before being processed & into raw clefts. The clefts then get sent to Meerut, India.<br\/><br\/>Our high-quality Singapore Manu cane & cork cane handles are made in Jalandhar. The handles then get sent to Meerut for splicing into our clefts. The clefts are then machined and go through our three-stage pressing process, which maximises the potential performance of each piece of willow. <br\/><br\/>The bats are then shipped to New Zealand, where they are given a final grade, shaped by hand and finished to your chosen specifications. We trust in our process, which allows you to walk to the crease with confidence, knowing that you're using a premium product that will perform under pressure.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "image": "shopify:\/\/shop_images\/DSC03264_copy.jpg",
+        "focal_point": "center",
+        "layout": "left",
+        "height": 750,
+        "framed": false,
+        "parallax": false
+      }
+    },
+    "1635882458b543b27b": {
+      "type": "rich-text",
+      "blocks": {
+        "1635882458b543b27b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "selection guide"
+          }
+        },
+        "1635882458b543b27b-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": true,
+            "text": "<p>All the information you need to select the correct options for you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1635882458b543b27b-0",
+        "1635882458b543b27b-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "1635882538b035c79d": {
+      "type": "text-columns",
+      "blocks": {
+        "1635882538b035c79d-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "SMALL MENS - SM",
+            "text": "<p>Players Height: 1.68m - 1.75m<br\/>Bat Length: 84cm<br\/>Blade Width: 10.7cm<br\/>Handle Length: 29.5cm<br\/>Weight Range: 2lb 6oz & Above<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1635882538b035c79d-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "SHORT HANDLE - SH",
+            "text": "<p>Players Height: 1.68m - 1.88m<br\/>Bat Length: 85cm<br\/>Blade Width: 10.7cm<br\/>Handle Length: 29.5cm<br\/>Weight Range: 2lb 6oz & Above<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1635882538b035c79d-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "LONG HANDLE \/ SHORT BLADE - LH\/SB",
+            "text": "<p>Players Height: 1.68m - 1.88m<br\/>Bat Length: 85cm<br\/>Blade Width: 10.7cm<br\/>Handle Length: 31.5cm<br\/>Weight Range: 2lb 6oz & Above<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "46172e10-03ad-463c-939d-a98548a4aa6d": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "LONG BLADE - LB",
+            "text": "<p>Players Height: 1.88m & above<br\/>Bat Length: 87cm<br\/>Blade Width: 10.7cm<br\/>Handle Length: 29.5cm<br\/>Weight Range: 2lb 9oz & Above<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "5f68df14-7b2f-48eb-ab30-2e5b699bc2d0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "LONG HANDLE - LH",
+            "text": "<p>Players Height: 1.88m & above<br\/>Bat Length: 87cm<br\/>Blade Width: 10.7cm<br\/>Handle Length: 31.5cm<br\/>Weight Range: 2lb 9oz & Above<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "2af5b93a-fc6a-4545-bf98-2cf8b59890b3": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "LONG BLADE \/ LONG HANDLE - LB\/LH",
+            "text": "<p>Players Height: 1.88m & above<br\/>Bat Length: 89cm<br\/>Blade Width: 10.7cm<br\/>Handle Length: 31.5cm<br\/>Weight Range: 2lb 9oz & Above<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1635882538b035c79d-0",
+        "1635882538b035c79d-1",
+        "1635882538b035c79d-2",
+        "46172e10-03ad-463c-939d-a98548a4aa6d",
+        "5f68df14-7b2f-48eb-ab30-2e5b699bc2d0",
+        "2af5b93a-fc6a-4545-bf98-2cf8b59890b3"
+      ],
+      "settings": {
+        "title": "Size Guide",
+        "align_text": "center",
+        "divider": true
+      }
+    },
+    "16358825453db67c93": {
+      "type": "text-and-image",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Angle6_GLE_Core_082A2741_Design_1-White.jpg",
+        "image_width": 700,
+        "subtitle": "",
+        "title": "Bat weight",
+        "text": "<p>The general rule is light bats for the controlled players and slightly heavier bats for the aggressive and attacking stroke-makers.<br\/><br\/>Heavier bats have a slower bat speed than lighter bats. The effort required to move the bat increases as the weight of the bat increases. A lighter bat will allow faster bat speed and increase the chance of middling the ball. A heavier bat will not be comparatively easy to middle the ball with, but it will stay hit when you connect with it.<br\/><br\/>Light (2lbs 6oz - 2lbs 8oz): We recommend this weight range if you are moving to your first full-size bat or into the finishing stages of your playing career, as it may help if you carry a lingering injury<br\/><br\/>Standard (2lbs 9oz - 2lbs 10oz): Most professional cricketers use a bat of this weight. It is an excellent balance between bat speed and bat performance.<br\/><br\/>Heavy (2lbs 11oz +): From 2lbs 11oz, you get a bat less about bat speed and more about blade performance. This weight range is for players who want to score their runs through boundaries and want a large and imposing bat.<\/p>",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "primary",
+        "align_text": "left",
+        "layout": "right",
+        "divider": true
+      }
+    },
+    "16358829132ac2c4cf": {
+      "type": "text-columns",
+      "blocks": {
+        "16358829132ac2c4cf-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/round_549a129e-eb5e-4b45-8846-0eeefbf11d4e.jpg",
+            "image_width": 650,
+            "title": "Round",
+            "text": "<p>A round toe will help prevent toe damage, particularly if you are a constant crease tapper. Both round and semi-round shapes assist you in sliding your bat into the crease.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16358829132ac2c4cf-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/semi_round.jpg",
+            "image_width": 650,
+            "title": "semi-round",
+            "text": "<p>The semi-round toe is our most popular choice as it gives you the best of both styles. Both round and semi-round toes assist you in sliding your bat into the crease.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16358829132ac2c4cf-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/square_56f736bf-e53a-44ac-a46e-1334ccd541e6.jpg",
+            "image_width": 650,
+            "title": "square",
+            "text": "<p>International players have widely used a square toe as it makes the blade appear wider and is stable while in stance. The drawback is the corners are prone to damage and digging into the pitch when sliding.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16358829132ac2c4cf-0",
+        "16358829132ac2c4cf-1",
+        "16358829132ac2c4cf-2"
+      ],
+      "settings": {
+        "title": "Toe shape",
+        "align_text": "center",
+        "divider": true
+      }
+    },
+    "1635883253faabb1a2": {
+      "type": "text-columns",
+      "blocks": {
+        "1635883253faabb1a2-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/round_handle.jpg",
+            "image_width": 650,
+            "title": "Round",
+            "text": "<p>The round handle is best suited to those who like to use their bottom hand and wrists for control and power. The round handle is popular in the subcontinent.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1635883253faabb1a2-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/semi-oval_handle.jpg",
+            "image_width": 650,
+            "title": "Semi-Oval",
+            "text": "<p>The semi-oval handle is our most popular choice as it gives you the best of both styles. It allows for a consistent and comfortable feel for most batsmen.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1635883253faabb1a2-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/oval_handle.jpg",
+            "image_width": 650,
+            "title": "Oval",
+            "text": "<p>The oval handle provides more strength to the handle as the circumference is larger. The oval shape on the bottom hand also gives the bat a better directional feel & means that the bottom hand isn't dominant, enabling the top hand to control the shot.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1635883253faabb1a2-0",
+        "1635883253faabb1a2-1",
+        "1635883253faabb1a2-2"
+      ],
+      "settings": {
+        "title": "handle Shape",
+        "align_text": "center",
+        "divider": true
+      }
+    },
+    "16358834255356118f": {
+      "type": "text-columns",
+      "blocks": {
+        "16358834255356118f-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Grip_082A2774-DYNAMITE_Black.jpg",
+            "image_width": 650,
+            "title": "Dynamite",
+            "text": "<p>Essentially a pyramid grip, with hundreds of mini pyramids across the grip. The bottom hand is banded to create a thicker grip with simple pyramids on the top hand.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16358834255356118f-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Grip_082A2774-AQUA_WAVE_Black.jpg",
+            "image_width": 650,
+            "title": "Aqua Wave",
+            "text": "<p>The surface texture of the Aqua Wave grip resembles alternating wave ripples, which create an important solid bond between gloves and bat.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16358834255356118f-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Grip_082A2771-SPIRAL_COIL_Black.jpg",
+            "image_width": 650,
+            "title": "Spiral Coil",
+            "text": "<p>Thicken up the handle on your cricket bat with our high-quality spiral coil grip—the thick ridges aid in helping to prevent your hands from moving when playing a shot.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "d949518d-f83f-459b-873f-fff91c58f938": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Grip_082A2773-CHEVRON_Black.jpg",
+            "image_width": 650,
+            "title": "Chevron",
+            "text": "<p>Add some stability to the grip on your cricket bat with the popular chevron cricket bat grip alternating bars (of approx 3cm width) of diagonally raised grooves.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "c78bd475-b261-4074-9252-4d0ce3d6d674": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": false,
+            "image_width": 650,
+            "title": "",
+            "text": "",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "c2ac1fd8-32b0-40e6-b834-ee1137b73eac": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Grip_082A2772-OCTOPUS_Black.jpg",
+            "image_width": 650,
+            "title": "Octopus",
+            "text": "<p>The surface of this grip is covered in hundreds of mini octopus-like suckers and was the first grip texture to give a prominently raised feel.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16358834255356118f-0",
+        "16358834255356118f-1",
+        "16358834255356118f-2",
+        "d949518d-f83f-459b-873f-fff91c58f938",
+        "c78bd475-b261-4074-9252-4d0ce3d6d674",
+        "c2ac1fd8-32b0-40e6-b834-ee1137b73eac"
+      ],
+      "settings": {
+        "title": "Grip Texture",
+        "align_text": "center",
+        "divider": true
+      }
+    },
+    "16358838559cd1e15e": {
+      "type": "text-columns",
+      "blocks": {
+        "16358838559cd1e15e-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Grade_GLE_Core_082A2760_e542b7fa-d252-4c82-afd6-9f6e2d01c51f.jpg",
+            "image_width": 650,
+            "title": "gle-ew",
+            "text": "<p>A Grade LE (limited edition) is the best looking and performing blade money can buy. A typical GLE will have 9+ grains, no blemishes on the playing surface and a tight, clean and straight grain structure. These are outstanding pieces of willow turned into the most exceptional bats imaginable.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16358838559cd1e15e-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Grade_GP_082A2754_0de5b3ed-d7e3-4ffe-855b-07daf691aab2.jpg",
+            "image_width": 650,
+            "title": "gp-ew",
+            "text": "<p>GP (performance) bats are graded on performance. The ping\/performance of these bats is often equivalent to our top GLE grade, but they don't meet the same grain structure\/aesthetics required. You can expect upwards of 8 grains, with the possibility of small blemishes and heartwood.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "16358838559cd1e15e-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Grade_G1_Swell_082A2761_3f261a9f-d078-480b-8374-1124bf576f3d.jpg",
+            "image_width": 650,
+            "title": "g1-ew",
+            "text": "<p>A Grade 1 is aesthetically sound and high performing. You can expect a beautiful bat with at least six straight grains visible, that will perform to a high level. The odd blemish or heartwood is not uncommon, but in general, they will have a clean grain structure.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "e84aadad-ec2b-48bc-8822-282c87a90ef0": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Grade_G2_082A2753_2a726a9b-5d38-4c2a-a54d-ae0a92cf6549.jpg",
+            "image_width": 650,
+            "title": "g2-ew",
+            "text": "<p>Grade 2 willow still produces great quality cricket bats. Often heartwood can be seen on the edge of these bats, this has no effect on the playing ability of the bat it is purely cosmetic. There will be at least four straight grains on the face of the bat with maybe some blemishes, pin knots or \"speck\" visible.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "b2b9c9bd-1385-42df-9e6f-2682b60aaff8": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Grade_G3_Tone_082A2759_264d1a3f-1852-4b4d-9a61-e37987f355e4.jpg",
+            "image_width": 650,
+            "title": "g3-ew",
+            "text": "<p>A Grade 3 bat may have up to half heartwood across the bat. Again this has no direct relation to the playing ability of the wood. It just has less visual attraction. There will be a minimum of 4 grains on the face of the bat, which may not always be perfectly straight. Again some small knots or a little 'butterfly' stain may be present with perhaps more prominent \"speck\".<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "465b2e6b-28c3-41f7-b4f2-4b021bfd4180": {
+          "type": "text_block",
+          "settings": {
+            "enable_image": true,
+            "image": "shopify:\/\/shop_images\/Grade_GB_Flat_082A2758_714023b2-fec5-4a49-bf29-b3eecdb726f3.jpg",
+            "image_width": 650,
+            "title": "gb-ew",
+            "text": "<p>Butterfly stained willow doesn't have the aesthetics of the grades above. Fortunately, good looks can only go so far, and butterfly willow can often perform exceptionally well. The ball can ping off a bat with a butterfly stain. This grade makes a standout value for money cricket bat.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16358838559cd1e15e-0",
+        "16358838559cd1e15e-1",
+        "16358838559cd1e15e-2",
+        "e84aadad-ec2b-48bc-8822-282c87a90ef0",
+        "b2b9c9bd-1385-42df-9e6f-2682b60aaff8",
+        "465b2e6b-28c3-41f7-b4f2-4b021bfd4180"
+      ],
+      "settings": {
+        "title": "English willow grading",
+        "align_text": "center",
+        "divider": true
+      }
+    },
+    "1635884178f5059bff": {
+      "type": "rich-text",
+      "blocks": {
+        "1635884178f5059bff-1": {
+          "type": "text",
+          "settings": {
+            "enlarge_text": false,
+            "text": "<p>The willow won't look exactly the same as the picture, as it's a natural product. When placing your order, select 'Yes, please' in the 'Send pictures of willow options' section if you're looking for a specific grain structure. We will then email you options once we receive your order. If there isn't an option you like, we will refund your order.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1635884178f5059bff-1"
+      ],
+      "settings": {
+        "align_text": "center",
+        "narrow_column": true,
+        "divider": false
+      }
+    },
+    "163573773885fb4a9c": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "SELECT YOUR WILLOW GRADE",
+        "home_featured_products": "senior-core-bats",
+        "per_row": 3,
+        "rows": 2,
+        "mobile_scrollable": false,
+        "view_all": false,
+        "divider": false
+      }
+    }
+  },
+  "order": [
+    "163573209316ba0d97",
+    "1635736330acec5ecc",
+    "1635734167ffd3fd4b",
+    "163573382104769ec4",
+    "main",
+    "163588222566666e99",
+    "1635882232c510ec03",
+    "16357364582fc14421",
+    "1635882458b543b27b",
+    "1635882538b035c79d",
+    "16358825453db67c93",
+    "16358829132ac2c4cf",
+    "1635883253faabb1a2",
+    "16358834255356118f",
+    "16358838559cd1e15e",
+    "1635884178f5059bff",
+    "163573773885fb4a9c"
+  ]
+}
